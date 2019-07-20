@@ -10,6 +10,9 @@
 ##  项目展示
     1.详见上方网站
     2.项目主要文件目录
+    *插入图片的格式为：
+    ![image](https://github.com/zzdxsongjinlei/cnode/raw/master/src/assets/struct.png)
+    *下一步就是去github上找要插入图片的地址。
       ![image](https://github.com/zzdxsongjinlei/cnode/raw/master/src/assets/struct.png)
     3.项目首页
       ![image](https://github.com/zzdxsongjinlei/cnode/raw/master/src/assets/home.png)
