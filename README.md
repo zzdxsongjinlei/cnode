@@ -10,13 +10,13 @@
 ##  项目展示
     1.详见上方网站
     2.项目主要文件目录
-    ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/struct.png)
+      ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/struct.png)
     3.项目首页
-    ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/home.png)
+      ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/home.png)
     4.文章详情页
-    ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/article.png)
+      ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/article.png)
     5.用户详情页
-    ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/user.png)
+      ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/user.png)
     
 ##  参考
    
