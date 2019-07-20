@@ -1,8 +1,8 @@
 # cnode
 
-> A Vue.js project
+> 一个使用vue制作的简易cnode网站
 
-## Build Setup
+## 基本知识
 
 ``` bash
 # install dependencies
