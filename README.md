@@ -10,15 +10,16 @@
 ##  项目展示
     1.详见上方网站
     2.项目主要文件目录
-      ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/struct.png)
+      ![image](master/src/assets/struct.png)
     3.项目首页
-      ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/home.png)
+      ![image](master/src/assets/home.png)
     4.文章详情页
-      ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/article.png)
+      ![image](master/src/assets/article.png)
     5.用户详情页
-      ![image](https://github.com/zzdxsongjinlei/cnode/blob/master/src/assets/user.png)
+      ![image](master/src/assets/user.png)
     
 ##  参考
+    1.感谢这个同学(https://heuristic-stonebraker-33e1b8.netlify.com/#/)
    
 ##  备注
     1.同样学习前端的可以联系我哦，我也在学习，希望早日进步，1355798730@qq.com
