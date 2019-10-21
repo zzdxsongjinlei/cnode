@@ -6,7 +6,7 @@
     </div>
     <el-dialog title="关于本项目" :visible.sync="dialogTableVisible" width="35%">
        <div class="inside-dialog">
-        <p>作者:<a href="https://github.com/zzdxsongjinlei">刘好浪</a></p>
+        <p>作者:<a href="https://github.com/zzdxsongjinlei">宋金磊</a></p>
         <p>
           源码: <i class="el-icon-star-off" ></i><a href=" https://github.com/zzdxsongjinlei">&nbsp;cnode&nbsp;</a> <i class="el-icon-star-off" ></i>方便的话可以star一下！<i class="el-icon-star-off" ></i>
         </p>

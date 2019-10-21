@@ -9,6 +9,7 @@ const error=function(){
 	});
 }
 let loading;
+
 const startLoading=function(){
 	loading=Loading.service({
 		lock:true,

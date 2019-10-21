@@ -64,7 +64,6 @@
         }
 
       },
-
       tabChanged(){
         const store=this.store;
         if(!store[this.tab]){
